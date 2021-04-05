@@ -19,7 +19,6 @@ You can use the python package manager of your choice (pip/conda) to install the
     Please follow the instructions [here](https://github.com/abisee/cnn-dailymail) for downloading and preprocessing the CNN/DailyMail dataset. After that, copy cnn folder containing stories folder into the project's dataset directory,.
 
 * Preprocessing the Dataset
-* Download Dataset
 
     Please download glove.42B.300d.txt from [here](https://www.kaggle.com/yutanakamura/glove42b300dtxt) before running preprocessing.py	
 
