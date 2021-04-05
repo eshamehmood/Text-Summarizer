@@ -1,0 +1,9 @@
+Python3
+Tensorflow >= 1.4 (tested on Tensorflow 1.4.0)
+numpy
+pandas
+keras
+seaborn
+spacy
+tqdm
+sumeval
