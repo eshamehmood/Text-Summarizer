@@ -20,7 +20,7 @@ You can use the python package manager of your choice (pip/conda) to install the
 
 * Preprocessing the Dataset
 
-    Please download glove.42B.300d.txt from [here](https://www.kaggle.com/yutanakamura/glove42b300dtxt) before running preprocessing.py	and place it inside ```./Files/``` directory
+    Please download glove.42B.300d.txt from [here](https://www.kaggle.com/yutanakamura/glove42b300dtxt) before running preprocessing.py	and place it inside ```./Files/``` directory 
 
 	```
 	python3 preprocessing.py
